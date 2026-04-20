@@ -4,7 +4,7 @@ minimal_mistakes_skin: "default"
 
 # Icono de la pestaña (Favicon)
 # Asegúrate de subir un archivo llamado favicon.png a la carpeta assets/images/
-favicon: "/assets/images/cons8-desarrollador.gif"
+favicon: "/assets/images/icons8-desarrollador.gif"
 
 # Plugins necesarios para que no dé error
 plugins:
