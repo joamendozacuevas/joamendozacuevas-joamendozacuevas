@@ -1,25 +1,23 @@
-remote_theme: "mmistakes/minimal-mistakes@docs"
-minimal_mistakes_skin: "default" # El estilo blanco limpio
+# Configuración del Tema
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
 
 # Información Personal
 author:
   name: "Joaquín Mendoza"
   bio: "Estudiante de Analista Programador"
   location: "Ñuñoa, Chile"
-  avatar: "/assets/images/image-joaquin.png" # Luego subiremos la foto
+  avatar: "/assets/images/image-joaquin.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tuusuario"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/joaquin-mendoza-designer/"
+      url: "https://github.com/joamendozacuevas"
 
-# Configuración de la página
+# Ajustes de la página
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "single"
-      author_profile: true # Esto activa la barra lateral con tu foto
+      author_profile: true
