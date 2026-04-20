@@ -7,7 +7,7 @@ Hola, soy un apasionado por la programación y el desarrollo web. Actualmente es
 
 ---
 
-# Currículum Vitae
+# CV
 
 ### Educación
 * **Analista Programador**, Inacap 2025 (En curso)
