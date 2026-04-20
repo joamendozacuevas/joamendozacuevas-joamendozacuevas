@@ -3,17 +3,17 @@ minimal_mistakes_skin: "default" # El estilo blanco limpio
 
 # Información Personal
 author:
-  name: "Tu Nombre"
+  name: "Joaquín Mendoza"
   bio: "Estudiante de Analista Programador"
   location: "Ñuñoa, Chile"
-  avatar: "/assets/images/foto.jpg" # Luego subiremos la foto
+  avatar: "/assets/images/image-joaquin.png" # Luego subiremos la foto
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tuusuario"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/tuperfil"
+      url: "https://www.linkedin.com/in/joaquin-mendoza-designer/"
 
 # Configuración de la página
 defaults:
