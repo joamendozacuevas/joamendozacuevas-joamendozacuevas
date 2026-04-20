@@ -2,6 +2,10 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
+# Icono de la pestaña (Favicon)
+# Asegúrate de subir un archivo llamado favicon.png a la carpeta assets/images/
+favicon: "/assets/images/favicon.png"
+
 # Plugins necesarios para que no dé error
 plugins:
   - jekyll-include-cache
@@ -19,7 +23,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joamendozacuevas"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joaquin-mendoza-designer/" # R
 # Ajustes de la página
 defaults:
   - scope:
